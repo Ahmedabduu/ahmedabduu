@@ -3,7 +3,7 @@
 ### Hi there <a href="https://github.com/Ahmedabduu/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 This is the place where I Develop Everythings about Odoo :
 
-- 🔭 &nbsp;I’m currently IT Specialist in ImpressIV.:
+- 🔭 &nbsp;I’m currently an IT Manager and Senior Odoo Developer Specialist in Inhouse Odoo Company.:
 - 🌱 &nbsp;I’m currently learning Flutter, Go
 - 💬 &nbsp;Ask me about anything related to Odoo
 
@@ -17,7 +17,7 @@ This is the place where I Develop Everythings about Odoo :
 
 ### ✨&nbsp; About Me
 
-I am a Senior Odoo Developer with 6+ years of experience.deep understanding of the Odoo framework
+I am a Senior Odoo Developer with 6+ years of experience. deep understanding of the Odoo framework
 and its various components.Developing and customizing modules, creating new features, and integrating Odoo with other systems.
 customizing and configuring Odoo to align with clients' unique business processes. This includes defining workflows, configuring access rights, modifying existing views,
 and adapting the user interface to enhance user experience.
